@@ -65,6 +65,7 @@ Multi-stage builds allow you to:
 ```
 
 ---
+<img width="1264" alt="Screenshot 2025-05-19 at 10 13 08 PM" src="https://github.com/user-attachments/assets/74106f7d-4122-42e7-b096-f7f602c7d04e" />
 
 ## 📃 License
 
